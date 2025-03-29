@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(77, 77, 77);
+    color: white;
+}
+
+html {
+    scrollbar-color: #ff8800 rgb(77, 77, 77);
+}
+
+h1{
+    font-size: 50px;
+}
+
+img{
+    width: 30%;
+}
